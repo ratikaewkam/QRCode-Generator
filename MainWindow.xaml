@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:QRCode_Generator"
         mc:Ignorable="d"
-        Title="MainWindow" Height="500" Width="800" ResizeMode="NoResize" Icon="/logo.ico">
+        Title="QRCode Generator" Height="500" Width="800" ResizeMode="NoResize" Icon="/logo.ico">
     <Grid>
         <Label x:Name="title" Content="QRCode Generator" HorizontalAlignment="Center" Margin="0,23,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="18"/>
         <Image x:Name="code_img" HorizontalAlignment="Left" Height="100" Margin="96,120,0,0" VerticalAlignment="Top" Width="100" Source="/logo.ico" Stretch="Uniform"/>
